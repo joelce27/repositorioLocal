@@ -1,4 +1,4 @@
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://blogthinkbig.com/wp-content/uploads/sites/4/2020/01/Herramientas_Productividad.jpg?resize=1040%2C400)
+![Imagen relacionada con el desarrollo de software con herramientas orientadas a la productividad](https://blogthinkbig.com/wp-content/uploads/sites/4/2020/01/Herramientas_Productividad.jpg?resize=1040%2C400)
 
 ## Repositorio "Desarrollo de software con herramientas orientadas a la productividad"
 Alumno: **Joel Loaeza**
