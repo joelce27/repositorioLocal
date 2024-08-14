@@ -1,5 +1,5 @@
 ## Repositorio "Desarrollo de software con herramientas orientadas a la productividad"
-Alumno: Joel Loaeza 
+Alumno: **Joel Loaeza**
 
 ### Tabla de contenidos
 
