@@ -1,4 +1,4 @@
-## Repositorio"Desarrollo de software con herramientas orientadas a la productividad"
+## Repositorio "Desarrollo de software con herramientas orientadas a la productividad"
 Alumno: Joel Loaeza 
 
 ### Tabla de contenidos
@@ -12,7 +12,7 @@ Por lo cual, se presenta el siguiente orden de proyectos:
 | [getURL](https://github.com/miRepositorioGit/getURL.git) | Muestra como direccionar y desglozar una petición URL. Muestra como pre-procesar una petición con scripts .htaccess |
 </br>
 
-## Lista of Algoritmos
+## Lista de Algoritmos
 
 See the [directory](https://github.com/miRepositorioGit/PlanEstudiosTecProgramacion) for easier navigation and to view the current list of algorithms.
 
