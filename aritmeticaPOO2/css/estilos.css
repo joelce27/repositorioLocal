@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px auto;
+    text-align: center;
+    width: 350px;
+}
+
+h3 {
+    font-family: "Passion One";
+}
+
+button {
+    padding: 3px;
+    width: 70px;
+    background: aqua;
+}
+
+label {
+    font-weight: bold;
+}
+
+div {
+    border-radius: 10px;
+    border-top: 5px groove;
+    border-right: 5px groove;
+    border-bottom: 5px groove;
+    border-left: 5px groove;
+    padding: 15px;
+    margin: 10px;
+    background: #E8F9FD;
+}
+
+div.res {
+    padding: 10px;
+    margin: 13px;
+    border: none;
+    background: #79DAE8;
+}
+
+div.titulo {
+    background: #79DAE8;
+}
